@@ -43,3 +43,5 @@ CREATE TABLE Loans (
     FOREIGN KEY (BookID) REFERENCES Books(BookID),
     FOREIGN KEY (MemberID) REFERENCES Members(MemberID)
 );
+
+![IMG-20250623-WA0012](https://github.com/user-attachments/assets/6b1d1588-8e80-43d2-96ca-78b94fda2596)
